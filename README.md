@@ -1,2 +1,13 @@
-# k12-multiagent-workshop
-Intro-level multi-agent workshop with Yandex Cloud
+# Генеративный ИИ и многоагентное рисование
+
+Привет! На этом мастер-классе мы узнаем:
+
+* Как вызывать генеративные GPT-модели из кода на Python
+* Как заставить двух ботов говорить между собой
+* Как синтезировать речь, чтобы озвучить диалог ботов
+* Как вызывать нейросеть для генерации картинок
+* Как заставить двух ботов обсуждать картину и самостоятельно творить искусство на заданную тему
+
+Для начала работы, нажмите на кнопку ниже. Вам потребуется Google Account.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwars/k12-multiagent-workshop/blob/main/GenAI-Multiagent-Workshop.ipynb)
